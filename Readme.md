@@ -1,3 +1,3 @@
 # Airline Tweets Sentiment Analysis using machine learning
 
-- make sure you install numpy, pandas and nltk before running the code.
+- make sure you install numpy, pandas,nltk and sklearn before running the code.
